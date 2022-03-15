@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson9_33
+comment0.text=Write\ a\ program\ to\ pass\ an\ integer\ as\ argument\ and\ check\ whether\ the\ digits\ \r\nare\ in\ ascending\ order\ or\ not.
+comment1.params=a
+comment1.target=void\ main(int)
+numComments=2

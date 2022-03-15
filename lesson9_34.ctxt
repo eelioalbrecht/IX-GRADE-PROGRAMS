@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson9_34
+comment0.text=Write\ a\ program\ to\ pass\ an\ integer\ as\ argument\ and\ check\ whether\ it\ is\ \r\nArmstrong\ number\ or\ not.\ Numbers\ whose\ sum\ of\ the\ cube\ of\ its\ digit\ is\ equal\ \r\nto\ the\ number\ itself\ is\ called\ Armstrong\ numbers.\ Example\ 153\=1^3+5^3+3^3.
+comment1.params=a
+comment1.target=void\ main(int)
+numComments=2

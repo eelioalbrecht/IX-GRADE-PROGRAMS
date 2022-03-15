@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson9_32
+comment0.text=Write\ a\ program\ to\ pass\ an\ integer\ as\ argument\ and\ check\ whether\ all\ digits\ \r\nin\ it\ are\ even\ digit\ or\ not.
+comment1.params=a
+comment1.target=void\ main(int)
+numComments=2

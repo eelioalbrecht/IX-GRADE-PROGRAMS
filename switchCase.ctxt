@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=switchCase
+comment0.text=class\ switchCase\r\n{\r\n\ \ \ \ switch(expression)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ case\ x\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ ..........\r\n\ \ \ \ \ \ \ \ break;\r\n\ \ \ \ \ \ \ \ case\ y\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ ..........\r\n\ \ \ \ \ \ \ \ break;\r\n\ \ \ \ \ \ \ \ default\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ ..........\r\n\ \ \ \ }\r\n}
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

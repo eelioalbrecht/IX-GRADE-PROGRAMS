@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson9_28
+comment0.text=Write\ a\ program\ to\ pass\ an\ integer\ as\ argument\ and\ find\ the\ sum\ of\ odd\ digits\r\nand\ even\ digits\ separately
+comment1.params=a
+comment1.target=void\ main(int)
+numComments=2
