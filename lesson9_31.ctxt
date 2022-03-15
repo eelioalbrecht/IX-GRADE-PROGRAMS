@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson9_31
+comment0.text=Write\ a\ program\ to\ input\ an\ integer\ and\ remove\ all\ the\ even\ digits\ from\ it.\r\nFor\ Example,\r\n\ \ \ \ INPUT\:\ Enter\ an\ integer\:\ 1234\r\nOUPUT\:\ 13
+comment1.params=a
+comment1.target=void\ main(int)
+numComments=2

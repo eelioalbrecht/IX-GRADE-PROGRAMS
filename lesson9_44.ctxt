@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson9_44
+comment0.text=Write\ a\ program\ to\ find\ the\ sum\ of\ the\ following\ series\:\r\nS\=1+(1+2)+(1+2+3)+(1+2+3+4)+(1+2+3+4+5)+\u2026+(1+2+3+4+\u2026+10)\r\n(Please\ note\ that\ no\ nested\ loop\ is\ to\ be\ used)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

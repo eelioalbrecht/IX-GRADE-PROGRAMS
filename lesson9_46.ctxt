@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson9_46
+comment0.text=A\ game\ of\ dice\ is\ to\ be\ simulated\ for\ two\ players,\ each\ player\ gets\ a\ chance\ \r\nto\ throw\ his\ dice,\ and\ the\ value\ is\ added\ to\ his\ points,\ this\ process\ continues\ \r\nalternately\ until\ for\ the\ player\ whose\ added\ points\ equals\ to\ 20\ and\ is\ \r\ndeclared\ the\ winner.\ Write\ a\ program\ to\ simulate\ this\ process\ using\ the\ \r\nrandom(\ )\ function.
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

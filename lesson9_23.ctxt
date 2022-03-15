@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson9_23
+comment0.text=Write\ a\ program\ to\ print\ the\ first\ 15\ numbers\ of\ the\ Pell\ series.\ \r\nPell\ series\ is\ such\ a\ series\ which\ starts\ from\ 1\ and\ 2\ ,\ and\ subsequent\ numbers\r\nis\ the\ sum\ of\ twice\ the\ previous\ number\ and\ the\ number\ previous\ to\ the\ previous\ \r\nnumber.\ Pell\ series\:\ 1,\ 2,\ 5,\ 12,\ 29,\ 70,\ 169,\ 408,\ 985,\ 2378,\ 5741,\ 13860,\ \u2026
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
