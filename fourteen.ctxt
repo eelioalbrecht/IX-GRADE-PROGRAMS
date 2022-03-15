@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=fourteen
+comment0.text=Write\ a\ program\ to\ initilaize\ three\ int\ variables\ a,\ b\ and\ c\ with\ 234,\ 456\ and\ 712,\ and\ store\ the\ sum\ of\ the\ last\ digit\ of\ variables\ into\ d\ and\ display\ it
+comment1.params=
+comment1.target=void\ main()
+numComments=2

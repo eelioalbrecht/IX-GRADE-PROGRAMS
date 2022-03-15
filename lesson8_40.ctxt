@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson8_40
+comment0.text=Write\ a\ program\ to\ input\ a,b\ and\ c\ the\ coefficient\ of\ the\ quadratic\ \r\nequation\ and\ find\ its\ roots\ and/or\ nature.
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Picnic
+comment0.text=\ void\ display1()\:\ to\ print\ venue,\ reporting\ time\r\n\ void\ display2()\:\ print\ number\ of\ students,\ name\ of\ the\ teacher\ accompanying\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ bus\ number\r\n\ write\ main\ method\ to\ creat\ an\ object\ of\ class\ picinc\ and\ call\ the\ function\r\n\ display1\ and\ display2\r\n
+comment1.params=
+comment1.target=void\ display1()
+comment2.params=
+comment2.target=void\ display2()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
