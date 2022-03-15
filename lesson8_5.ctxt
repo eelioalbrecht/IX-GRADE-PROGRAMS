@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson8_5
+comment0.text=Write\ a\ program\ to\ accept\ an\ int\ type\ value\ as\ a\ parameter\ and\ print\ the\ \r\nsquare\ of\ it,\ if\ it\ is\ more\ than\ 120,\ otherwise\ print\ its\ cube.
+comment1.params=n
+comment1.target=void\ main(int)
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson8_13
+comment0.text=Write\ a\ program\ to\ pass\ 2\ integer\ numbers\ as\ parameters.\ If\ either\ of\ the\ \r\ntwo\ numbers\ is\ 0,\ display\ invalid\ entry\ and\ the\ program\ should\ end,\ if\ it\ \r\nis\ valid\ entry,\ divide\ the\ larger\ number\ with\ the\ smaller\ number\ and\ display\r\nthe\ result.
+comment1.params=a\ b
+comment1.target=void\ main(int,\ int)
+numComments=2
