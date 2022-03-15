@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=thirteen
+comment0.text=Write\ a\ program\ to\ initialize\ two\ integer\ variables\ a\ and\ b\ with\ 5\ and\ 6,\ reaspectively,\ and\ interchange\ them.\ Thus\ after\ interchangeing,\ a\ and\ b\ with\ be\ 6\ snd\ 5
+comment1.params=
+comment1.target=void\ main()
+numComments=2

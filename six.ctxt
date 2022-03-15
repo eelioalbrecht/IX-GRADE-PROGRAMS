@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=six
+comment0.text=Write\ a\ program\ to\ diplay\ the\ names\ of\ five\ fruits\ with\ a\ single\ System.out.println();\ statement,\ but\ in\ different\ lines
+comment1.params=
+comment1.target=void\ main()
+numComments=2

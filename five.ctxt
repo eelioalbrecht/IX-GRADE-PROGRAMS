@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=five
+comment0.text=Write\ a\ program\ uning\ int\ variables\ to\ find\ the\ sum\ of\ the\ three\ numbers,\ say\ 15,\ 36,\ 45,\ and\ subtract\ the\ result\ from\ 100\ using\ variables
+comment1.params=
+comment1.target=void\ main()
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=fifteen
+comment0.text=Write\ a\ program\ to\ initialize\ an\ int\ variable\ a\ with\ 76498,\ and\ from\ it\ extract\ the\ first\ digit\ and\ store\ it\ into\ a\ variable\ f\ and\ extract\ the\ last\ digit\ into\ a\ variable\ e\ and\ display\ both\ these\ digits
+comment1.params=
+comment1.target=void\ main()
+numComments=2
