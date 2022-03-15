@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson8_14
+comment0.text=Write\ a\ program\ to\ accept\ three\ sides\ of\ a\ triangle\ as\ parameter\ and\ check\ \r\nwhether\ it\ can\ form\ a\ triangle\ or\ not.\ If\ it\ forms\ a\ triangle,\ check\ whether\ \r\nit\ is\ an\ acute\ angled,\ obtuse\ angled\ or\ right-angled\ triangle.\r\n(Hint\:\ To\ form\ a\ triangle,\ each\ side\ should\ be\ less\ the\ sum\ of\ the\ other\ two\ \r\nsides.\r\n\ \ \ \ ->\ To\ form\ an\ acute\ angled\ triangle\ the\ square\ of\ every\ side\ should\ be\ \r\n\ \ \ \ \ \ \ \ less\ than\ the\ sum\ of\ the\ squares\ of\ the\ other\ two\ sides.\r\n\ \ \ \ ->\ To\ form\ an\ obtuse\ angled\ triangle\ the\ square\ of\ any\ side\ should\ be\ \r\n\ \ \ \ \ \ \ \ greater\ than\ the\ sum\ of\ the\ squares\ of\ the\ other\ two\ sides.\r\n\ \ \ \ ->\ To\ form\ an\ right\ angled\ triangle\ the\ square\ of\ any\ side\ should\ be\ \r\nequal\ to\ the\ sum\ of\ the\ squares\ of\ the\ other\ two\ sides.)
+comment1.params=a\ b\ c
+comment1.target=void\ main(int,\ int,\ int)
+numComments=2

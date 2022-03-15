@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=lesson6two
+comment0.text=Write\ a\ program\ to\ input\ 5\ integers\ and\ find\ their\ average
+comment1.params=a\ b\ c\ d\ e
+comment1.target=void\ main(int,\ int,\ int,\ int,\ int)
+numComments=2
